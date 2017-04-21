@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Natural Medicus</title>
+  <generator uri="https://github.com/jekyll/jekyll">Jekyll v3.1.2</generator>
+    <icon>http://localhost:4000/apple-touch-icon-precomposed.png</icon>
+  <subtitle>Natural Healing with Nature's Pharmacy</subtitle>
+  <link href="http://localhost:4000/atom.xml" rel="self"/>
+  <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
+  <updated>2017-04-21T12:57:09+01:00</updated>
+  <id>http://localhost:4000/</id>
+  <author>
+    <name>Natural Medicus</name>
+    <uri>http://localhost:4000/</uri>
+    
+  </author>
+
+  
+  <entry>
+    <title>Aloe Vera</title>
+    <link href="http://localhost:4000/herbal-remedies/aloe-vera/"/>
+    <updated>2016-04-04T10:26:27+01:00</updated>
+    <id>http://localhost:4000/herbal-remedies/aloe-vera</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;nav class=&quot;toc&quot;&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#description&quot; id=&quot;markdown-toc-description&quot;&gt;About Aloe Vera&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#health-benefits&quot; id=&quot;markdown-toc- health-benefits &quot;&gt;Health Benefits of Aloe Vera&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#how-to-use&quot; id=&quot;markdown-toc-how-to-use &quot;&gt;How to Use Aloe Vera&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#internal-uses&quot; id=&quot;markdown-toc-internal-uses&quot;&gt;Internal Uses&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#external-uses&quot; id=&quot;markdown-toc-external-uses&quot;&gt;External Uses&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#precautions-and-warnings&quot; id=&quot;markdown-toc-precautions-and-warnings&quot;&gt;Precautions and Warnings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#side-effects-toxicity&quot; id=&quot;markdown-toc-side-effects-toxicity&quot;&gt;Side Effects / Toxicity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#buying&quot; id=&quot;markdown-toc-buying&quot;&gt;Buying Aloe Vera&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/nav&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;About Aloe Vera&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Botanical name:&lt;/strong&gt; Aloe Barbadensis Miller&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Common names:&lt;/strong&gt; Barbados Aloe, Burn Aloe, Curacao Aloe, Chinese Aloe, Indian Aloe, True Aloe, First Aid Plant, Medicinal Aloe&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Medicinal parts:&lt;/strong&gt; Leaf, Gel inside leaf&lt;/p&gt;
+&lt;p&gt;Aloe vera grows wild in East and South Africa and can be found cultivated throughout tropical climates. Aloe vera is a plant species of the genus Aloe. The plant is a green shrub with thick leaves that have a serrated edge and flowers are usually a yellow to purple shade. The shrub has no stem or very short stem and can grow from 60cm to 1m tall. Aloe vera has been widely grown as an ornamental plant and is able to survive in areas of low natural rainfall, making it a good choice for a garden with low water usage as it is a drought tolerant.&lt;/p&gt;
+&lt;p&gt;Aloe vera produces up to 25 leaves, forming a rosette appearance. The leaves contain a gel which is commonly used in beverages, cosmetics, skin lotions, cleansers, moisturisers soaps, and many skin treatments.&lt;/p&gt;
+&lt;p&gt;The aloe plant has been used since the 4th century B.C. for its medicinal purposes and reference has been made about its use throughout history.&lt;/p&gt;
+&lt;h2 id=&quot;health-benefits&quot;&gt;Aloe Vera Health Benefits&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Helps reduce acne&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The gel from the inside of the aloe plant&amp;rsquo;s leaves is used worldwide in cosmetics and skin treatments. In particular it can help reduce acne.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nutritious and high in antioxidants&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Aloe vera also contains vitamin C and other minerals useful for nutrition making it a good choice for boosting the immune system.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aids digestion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Aloe has been used as a laxative and for aiding digestion. Aloe stops bowels from absorbing water which speeds the passage and volume of the bowel&amp;rsquo;s contents resulting in a laxative effect. However, use as a laxative can cause agonizing cramping. Other herbs including senna and sagrada are often used instead.&lt;br /&gt; Conditions such as ulcers and diabetes may also be treated with aloe vera.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Protection against viral infections&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Aloe vera contains phytochemicals such as aloin, glucommannans, salicylic acid. It contains salicylates which are derivatives of salicylic acid. These occur naturally in plants and serve as a natural immune hormone and preservative which protect the plants against diseases, insects, fungi, and harmful bacteria. This makes it effective to act against viruses such as the flu, chickenpox, and herpes and can also kill bacteria.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Promotes skin healing and skin conditions&lt;/strong&gt;&lt;br /&gt; Aloe Vera possesses external healing properties and speeds the healing of skin injuries such as poison ivy, ulcerations, hives, minor burns, insect bites, skin irritations, minor cuts and scratches.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anti-aging and repairs damaged skin&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It can heal sunburns and acts effectively against skin aging. Aloe vera leaf is known to support the appearance of healthy skin. This herb is water soluble and can be added to many beauty formulas for your skin.&lt;/p&gt;
+&lt;h2 id=&quot;how-to-use&quot;&gt;How to Use Aloe Vera&lt;/h2&gt;
+&lt;h3 id=&quot;internal-uses&quot;&gt;Internal Uses&lt;/h3&gt;
+&lt;p&gt;Aloe Vera extracts are available in supplement form and many aloe vera juices are available which can be combined with other juices for a pleasant tonic. You can take these as required for improved digestion&lt;/p&gt;
+&lt;h3 id=&quot;external-uses&quot;&gt;External Uses&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Sunburn, wounds (cuts, scratches), insect bites and other skin irritations&lt;/strong&gt; - use aloe vera gel and rub on affected area.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Remove acne &amp;ndash; &lt;/strong&gt;apply the aloe vera gel directly on the skin and leave overnight. Next day when washing your face remember to finish off using cold water as this will close your pores and reduce the risk of harmful bacteria clogging your pores. You can repeat this daily or as required.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For healthy skin growth -&lt;/strong&gt; Add aloe vera gel to any of your beauty formulas to reap the anti-aging benefits of using aloe vera.&lt;/p&gt;
+&lt;h2 id=&quot;precautions-and-warnings&quot;&gt;Precautions and warnings&lt;/h2&gt;
+&lt;p&gt;Taken by mouth may cause cramping pain in the gastrointestinal tract and diarrhea (reduce dose). Skin rashes with long term use of gel.&lt;/p&gt;
+&lt;p&gt;If taking aloe vera leaf gel internally it should be taken an hour before or several hour after any orally administered drugs as aloe vera may slow the absorption of most drugs. Aloe vera might interact with other drugs or herbs so make sure you talk to your doctor before you begin having it.&lt;/p&gt;
+&lt;p&gt;Aloe products can be powerful laxatives. There are some reports of serious body chemical imbalance after severe diarrhoea. These side effects are more likely to occur if you take very high doses.&lt;/p&gt;
+&lt;p&gt;It is important to avoid aloe vera if you have salicylates sensitivity.&lt;/p&gt;
+&lt;h2 id=&quot;side-effects-toxicity&quot;&gt;Side Effects / Toxicity&lt;/h2&gt;
+&lt;p&gt;It has been reported that Aloe vera injections can cause very serious side effects and aloe injection T-UP has caused several deaths when used as a cancer treatment.&lt;/p&gt;
+&lt;p&gt;Aloe vera ingested as a liquid or capsules causes side effects for some people which are usually mild but might cause more of a problem for others. Side effects might include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Diarrhoea&lt;/li&gt;
+&lt;li&gt;Feeling sick&lt;/li&gt;
+&lt;li&gt;Skin rash&lt;/li&gt;
+&lt;li&gt;Stomach pain&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The more serious side effects although very rare include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Irregular heart rhythm&lt;/li&gt;
+&lt;li&gt;Kidney damage&lt;/li&gt;
+&lt;li&gt;Oedema&lt;/li&gt;
+&lt;li&gt;Liver inflammation (hepatitis)&lt;/li&gt;
+&lt;li&gt;Blood clotting problems.&lt;/li&gt;
+&lt;li&gt;Low blood potassium levels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;buying&quot;&gt;Buying Aloe Vera&lt;/h2&gt;
+&lt;p&gt;Aloe vera is available as a supplement and also aloe vera juice. For external use aloe vera gel is readily available although many have additives that should be avoided. It is best to purchase organic where possible and 100% aloe vera gel.&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Acerola</title>
+    <link href="http://localhost:4000/herbal-remedies/acerola/"/>
+    <updated>2016-04-03T10:29:01+01:00</updated>
+    <id>http://localhost:4000/herbal-remedies/acerola</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Coming soon&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Stinging Nettle</title>
+    <link href="http://localhost:4000/herbal-remedies/stinging-nettles/"/>
+    <updated>2016-04-03T10:26:27+01:00</updated>
+    <id>http://localhost:4000/herbal-remedies/stinging-nettles</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Coming soon&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Burdock</title>
+    <link href="http://localhost:4000/herbal-remedies/burdock/"/>
+    <updated>2016-04-03T10:26:27+01:00</updated>
+    <id>http://localhost:4000/herbal-remedies/burdock</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Coming soon&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Black Walnut</title>
+    <link href="http://localhost:4000/herbal-remedies/black-walnut/"/>
+    <updated>2016-04-03T10:26:27+01:00</updated>
+    <id>http://localhost:4000/herbal-remedies/black-walnut</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Coming soon&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Agave</title>
+    <link href="http://localhost:4000/herbal-remedies/agave/"/>
+    <updated>2016-04-03T10:26:27+01:00</updated>
+    <id>http://localhost:4000/herbal-remedies/agave</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Coming soon&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Aconite</title>
+    <link href="http://localhost:4000/herbal-remedies/aconite/"/>
+    <updated>2016-04-03T10:26:27+01:00</updated>
+    <id>http://localhost:4000/herbal-remedies/aconite</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Coming soon&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Acacia</title>
+    <link href="http://localhost:4000/herbal-remedies/acacia/"/>
+    <updated>2016-04-03T10:26:27+01:00</updated>
+    <id>http://localhost:4000/herbal-remedies/acacia</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Coming soon&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Bad Breath</title>
+    <link href="http://localhost:4000/ailments/bad-breath/"/>
+    <updated>2016-04-03T10:17:30+01:00</updated>
+    <id>http://localhost:4000/ailments/bad-breath</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;nav class=&quot;toc&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#description&quot; id=&quot;markdown-toc-description&quot;&gt;About Bad Breath&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#symptoms&quot; id=&quot;markdown-toc-symptoms&quot;&gt;Symptoms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#causes&quot; id=&quot;markdown-toc-causes&quot;&gt;Causes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#remedies&quot; id=&quot;markdown-toc-remedies&quot;&gt;Remedies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;About Bad Breath&lt;/h2&gt;
+&lt;p&gt;Odour from the mouth which can be unpleasant and cause a lack of confidence. Usually the sufferer themselves can smell the bad odour or others around them.&lt;/p&gt;
+&lt;h2 id=&quot;symptoms&quot;&gt;Symptoms&lt;/h2&gt;
+&lt;p&gt;Odour in the mouth&lt;/p&gt;
+&lt;h2 id=&quot;causes&quot;&gt;Causes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Stress&lt;/li&gt;
+&lt;li&gt;Poor diet&lt;/li&gt;
+&lt;li&gt;Lack of oral hygiene&lt;/li&gt;
+&lt;li&gt;Diagnosis from dentist&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;remedies&quot;&gt;Remedies&lt;/h2&gt;
+&lt;p&gt;Healthy diet&lt;/p&gt;
+&lt;p&gt;Relaxation Techniques&lt;/p&gt;
+&lt;p&gt;Oral hygiene - flossing and brushing teeth at least twice a day&lt;/p&gt;
+&lt;p&gt;Tongue scraping&lt;/p&gt;
+&lt;p&gt;Oil pulling&lt;/p&gt;
+&lt;p&gt;Natural toothpaste&lt;/p&gt;
+&lt;p&gt;Natural mouth wash&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Back Pain</title>
+    <link href="http://localhost:4000/ailments/back-pain/"/>
+    <updated>2016-04-03T10:17:01+01:00</updated>
+    <id>http://localhost:4000/ailments/back-pain</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;nav class=&quot;toc&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#description&quot; id=&quot;markdown-toc-description&quot;&gt;About Back Pain&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#symptoms&quot; id=&quot;markdown-toc-symptoms&quot;&gt;Symptoms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#causes&quot; id=&quot;markdown-toc-causes&quot;&gt;Causes&lt;/a&gt;&lt;/li&gt;
+   &lt;li&gt;&lt;a href=&quot;#remedies&quot; id=&quot;markdown-toc-remedies&quot;&gt;Remedies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;About Back Pain&lt;/h2&gt;
+&lt;p&gt;This is a common problem usually felt in the upper or lower back. The pain can vary from feeling moderate to intense. First point of diagnosis would be feeling pain in the back which may be chronic or intermittent.&lt;/p&gt;
+&lt;h2 id=&quot;symptoms&quot;&gt;Symptoms&lt;/h2&gt;
+&lt;p&gt;Pain in the upper or lower back&lt;/p&gt;
+&lt;h2 id=&quot;causes&quot;&gt;Causes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Back injury&lt;/li&gt;
+&lt;li&gt;Strain on muscles from exercise&lt;/li&gt;
+&lt;li&gt;Incorrect mattress&lt;/li&gt;
+&lt;li&gt;Incorrect posture&lt;/li&gt;
+&lt;li&gt;Work at the desk&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;remedies&quot;&gt;Remedies&lt;/h2&gt;
+&lt;p&gt;Accupressure&lt;/p&gt;
+&lt;p&gt;Chiropractor&lt;/p&gt;
+&lt;p&gt;Eucalyptus oil (1-2 mixed in oil and then massaged)&lt;/p&gt;
+&lt;p&gt;Hot Cold Gel pack&lt;/p&gt;
+&lt;p&gt;Taking Rest to limit straining the back&lt;/p&gt;
+&lt;p&gt;Correcting posture&lt;/p&gt;
+&lt;p&gt;Improving working desk environment&lt;/p&gt;
+&lt;p&gt;Serrapeptase&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Acanthosis Nigricans</title>
+    <link href="http://localhost:4000/ailments/acanthosis-nigricans/"/>
+    <updated>2016-04-03T10:16:18+01:00</updated>
+    <id>http://localhost:4000/ailments/acanthosis-nigricans</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Acne</title>
+    <link href="http://localhost:4000/ailments/acne/"/>
+    <updated>2016-04-03T10:15:42+01:00</updated>
+    <id>http://localhost:4000/ailments/acne</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;nav class=&quot;toc&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#description&quot; id=&quot;markdown-toc-description&quot;&gt;About Acne&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#symptoms&quot; id=&quot;markdown-toc-symptoms&quot;&gt;Symptoms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#causes&quot; id=&quot;markdown-toc-causes&quot;&gt;Causes&lt;/a&gt;&lt;/li&gt;
+   &lt;li&gt;&lt;a href=&quot;#remedies&quot; id=&quot;markdown-toc-remedies&quot;&gt;Remedies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;About Acne&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Other names:&lt;/strong&gt; Commonly known as spots, pimples and zits.&lt;/p&gt;
+&lt;p&gt;Acne is a condition of the skin. There are various types of acne, with and without coniform.&lt;/p&gt;
+&lt;h2 id=&quot;symptoms&quot;&gt;Symptoms&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Spots that may appear around the face and body&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;causes&quot;&gt;Causes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Unhealthy diet&lt;/li&gt;
+&lt;li&gt;Poor Immune system&lt;/li&gt;
+&lt;li&gt;Allergies to certain food&lt;/li&gt;
+&lt;li&gt;Toxins in beauty products&lt;/li&gt;
+&lt;li&gt;Stress&lt;/li&gt;
+&lt;li&gt;Hormonal imbalance&lt;/li&gt;
+&lt;li&gt;Toxins and pollution in the environment and at home&lt;/li&gt;
+&lt;li&gt;Malnutrition&lt;/li&gt;
+&lt;li&gt;Excess toxins&lt;/li&gt;
+&lt;li&gt;Clogged pores&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;remedies&quot;&gt;Remedies&lt;/h2&gt;
+&lt;p&gt;Aloe Vera&lt;/p&gt;
+&lt;p&gt;Healthy diet&lt;/p&gt;
+&lt;p&gt;Free from allergens diet - exclude wheat, gluten, soy and dairy&lt;/p&gt;
+&lt;p&gt;Natural beauty products&lt;/p&gt;
+&lt;p&gt;Urine therapy&lt;/p&gt;
+&lt;p&gt;Clay face mask&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Dry Skin</title>
+    <link href="http://localhost:4000/ailments/dry-skin/"/>
+    <updated>2016-04-03T10:14:02+01:00</updated>
+    <id>http://localhost:4000/ailments/dry-skin</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;nav class=&quot;toc&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#description&quot; id=&quot;markdown-toc-description&quot;&gt;About Dry Skin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#symptoms&quot; id=&quot;markdown-toc-symptoms&quot;&gt;Symptoms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#causes&quot; id=&quot;markdown-toc-causes&quot;&gt;Causes&lt;/a&gt;&lt;/li&gt;
+   &lt;li&gt;&lt;a href=&quot;#remedies&quot; id=&quot;markdown-toc-remedies&quot;&gt;Remedies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;About Dry Skin&lt;/h2&gt;
+&lt;p&gt;Dry Skin is the flakiness of the skin on any part of the body but commonly found around the arms, legs or abdominal area.&lt;/p&gt;
+&lt;h2 id=&quot;symptoms&quot;&gt;Symptoms&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dry flakey skin&lt;/li&gt;
+&lt;li&gt;Yeast or fungal infections such as Candida&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;causes&quot;&gt;Causes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Malnutrition&lt;/li&gt;
+&lt;li&gt;Medications&lt;/li&gt;
+&lt;li&gt;Dehydration&lt;/li&gt;
+&lt;li&gt;Stripping of natural oils&lt;/li&gt;
+&lt;li&gt;Overuse and sensitivity to chemicals in products&lt;/li&gt;
+&lt;li&gt;Alcohol consumption&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;remedies&quot;&gt;Remedies&lt;/h2&gt;
+&lt;p&gt;Stay well hydrated by drinking good quality water.&lt;/p&gt;
+&lt;p&gt;Use sole in water.&lt;/p&gt;
+&lt;p&gt;Replenish fatty acids.&lt;/p&gt;
+&lt;p&gt;Normal, healthy skin is coated in a thin layer of natural lipids, or fatty substances. They keep in moisture, leaving the skin soft and supple.&lt;/p&gt;
+&lt;p&gt;Use natural body lotions and creams. It is essential to use the right type of moisturizer for your skin. It is a good idea to use a moisturizer whilst your skin is still damp rather than fully dry as this will help trap moisture still on your skin. It is important that your skin is not too wet. Patting your body after a bath or shower with a towel until skin is slightly damp is ideal to help your lotion trap in the moisture whereas completely dry skin will have none to very little moisture.&lt;/p&gt;
+&lt;p&gt;Choose a fragrance and alcohol free moisturizer as these will dry out your skin.&lt;/p&gt;
+&lt;p&gt;For dry skin it is good to use a thick and greasy moisturizer to help seal moisture in the skin&lt;/p&gt;
+&lt;p&gt;To test the thickness of your moisturizer you can put some on the Palm of your hand. Flip your hand, if it is runny or drips off it is not thick enough to help dry skin.&lt;/p&gt;
+&lt;p&gt;Use natural chemical free body wash, avoid using harsh chemicals and too much soap that will strip the body of natural oils.&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Dandruff</title>
+    <link href="http://localhost:4000/ailments/dandruff/"/>
+    <updated>2016-04-03T10:14:02+01:00</updated>
+    <id>http://localhost:4000/ailments/dandruff</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;nav class=&quot;toc&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#description&quot; id=&quot;markdown-toc-description&quot;&gt;About Dandruff&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#symptoms&quot; id=&quot;markdown-toc-symptoms&quot;&gt;Symptoms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#causes&quot; id=&quot;markdown-toc-causes&quot;&gt;Causes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#remedies&quot; id=&quot;markdown-toc-remedies&quot;&gt;Remedies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tips&quot; id=&quot;markdown-toc-tips&quot;&gt;Recommended Tips&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;About Dandruff&lt;/h2&gt;
+&lt;p&gt;Dandruff is a common scalp disorder affecting most people. Dandruff is the shedding of dead skin cells found on the scalp.&lt;/p&gt;
+&lt;h2 id=&quot;symptoms&quot;&gt;Symptoms&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Flakes around the scalp&lt;/li&gt;
+&lt;li&gt;Itchy scalp&lt;/li&gt;
+&lt;li&gt;Red greasy patches of skin&lt;/li&gt;
+&lt;li&gt;Tingling feeling on the scalp&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;causes&quot;&gt;Causes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Weak immune system&lt;/li&gt;
+&lt;li&gt;Dry skin&lt;/li&gt;
+&lt;li&gt;Seborrhoeic dermatitis&lt;/li&gt;
+&lt;li&gt;Not cleaning or brushing hair&lt;/li&gt;
+&lt;li&gt;Shampooing too often&lt;/li&gt;
+&lt;li&gt;Skin conditions such as psoriasis and eczema&lt;/li&gt;
+&lt;li&gt;Sensitivity to chemicals in hair care products&lt;/li&gt;
+&lt;li&gt;Overgrowth of yeast-like fungus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;remedies&quot;&gt;Remedies&lt;/h2&gt;
+&lt;p&gt;Borax hair wash&lt;/p&gt;
+&lt;p&gt;Apple Cider Vinegar&lt;/p&gt;
+&lt;p&gt;Vitamin C&lt;/p&gt;
+&lt;p&gt;Anti Candida Diet&lt;/p&gt;
+&lt;h2 id=&quot;markdown-toc&quot;&gt;Recommended Tips&lt;/h2&gt;
+&lt;p&gt;Use boar bristle hairbrush&lt;/p&gt;
+&lt;p&gt;Natural hairbrushes and combs&lt;/p&gt;
+&lt;p&gt;Boost your immune system&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Acid Reflux</title>
+    <link href="http://localhost:4000/ailments/acid-reflux/"/>
+    <updated>2016-04-03T10:14:02+01:00</updated>
+    <id>http://localhost:4000/ailments/acid-reflux</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;nav class=&quot;toc&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#description&quot; id=&quot;markdown-toc-description&quot;&gt;About Acid Reflux&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#symptoms&quot; id=&quot;markdown-toc-symptoms&quot;&gt;Symptoms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#causes&quot; id=&quot;markdown-toc-causes&quot;&gt;Causes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#remedies&quot; id=&quot;markdown-toc-remedies&quot;&gt;Remedies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;About Acid Reflux&lt;/h2&gt;
+&lt;p&gt;Acid reflux which is also known as gastroesophageal reflux, is the backward flow of stomach acid into the esophagus and back up to the mouth. The esophagus is the tube that connects the throat and stomach. Acid reflux can progress to GERD, a more severe form of reflux.&lt;/p&gt;
+&lt;h2 id=&quot;symptoms&quot;&gt;Symptoms&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tasting regurgitated food&lt;/li&gt;
+&lt;li&gt;Tasting a sour liquid at the back of your mouth&lt;/li&gt;
+&lt;li&gt;Feeling a burning sensation in your chest (Heartburn)&lt;/li&gt;
+&lt;li&gt;Causes&lt;/li&gt;
+&lt;li&gt;Unhealthy lifestyle&lt;/li&gt;
+&lt;li&gt;Smoking&lt;/li&gt;
+&lt;li&gt;Obesity&lt;/li&gt;
+&lt;li&gt;Unhealthy diet&lt;/li&gt;
+&lt;li&gt;Poor Eating habits&lt;/li&gt;
+&lt;li&gt;Medications&lt;/li&gt;
+&lt;li&gt;Alcohol&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;causes&quot;&gt;Causes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Stress&lt;/li&gt;
+&lt;li&gt;Certain medications&lt;/li&gt;
+&lt;li&gt;Unhealthy diet&lt;/li&gt;
+&lt;li&gt;Unhealthy lifestyle (smoking, alcohol, high caffeine, fizzy drinks)&lt;/li&gt;
+&lt;li&gt;Eating fatty foods&lt;/li&gt;
+&lt;li&gt;Weakened digestive system&lt;/li&gt;
+&lt;li&gt;Eating large meals&lt;/li&gt;
+&lt;li&gt;Lying down after eating&lt;/li&gt;
+&lt;li&gt;Unhealthy eating habits&lt;/li&gt;
+&lt;li&gt;Eating too many acidic food&lt;/li&gt;
+&lt;li&gt;Snacking during bedtime&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;remedies&quot;&gt;Remedies&lt;/h2&gt;
+&lt;p&gt;Healthy diet&lt;/p&gt;
+&lt;p&gt;Increase Alkaline foods, reduce acidic foods and juices&lt;/p&gt;
+&lt;p&gt;Avoid foods that trigger your reflux symptoms&lt;/p&gt;
+&lt;p&gt;Avoid fried fatty food&lt;/p&gt;
+&lt;p&gt;Avoid alcohol&lt;/p&gt;
+&lt;p&gt;Apple Cider Vinegar&lt;/p&gt;
+&lt;p&gt;Baking Soda&lt;/p&gt;
+&lt;p&gt;Quit smoking&lt;/p&gt;
+&lt;p&gt;Bone broth&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Abdominal Pain</title>
+    <link href="http://localhost:4000/ailments/abdominal-pain/"/>
+    <updated>2016-04-03T10:14:02+01:00</updated>
+    <id>http://localhost:4000/ailments/abdominal-pain</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;nav class=&quot;toc&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#description&quot; id=&quot;markdown-toc-description&quot;&gt;About Abdominal Pain&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#symptoms&quot; id=&quot;markdown-toc-symptoms&quot;&gt;Symptoms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#causes&quot; id=&quot;markdown-toc-causes&quot;&gt;Causes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#remedies&quot; id=&quot;markdown-toc-remedies&quot;&gt;Remedies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;About Abdominal Pain&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Other names:&lt;/strong&gt; tummy upset, stomach pain, belly ache&lt;/p&gt;
+&lt;p&gt;Abdominal pain can be associated with various conditions. Usually the pain can be triggered by a certain food such as spicy food. If a stomach or abdominal pain does not go away and is chronic it may be a symptom of an underlying health condition such as stomach ulcers.&lt;/p&gt;
+&lt;h2 id=&quot;symptoms&quot;&gt;Symptoms&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A pain in the abdomen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;causes&quot;&gt;Causes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Stomach ulcers&lt;/li&gt;
+&lt;li&gt;Food poisoning&lt;/li&gt;
+&lt;li&gt;Parasites&lt;/li&gt;
+&lt;li&gt;Poor diet&lt;/li&gt;
+&lt;li&gt;Spicy food&lt;/li&gt;
+&lt;li&gt;Medications&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;remedies&quot;&gt;Remedies&lt;/h2&gt;
+&lt;p&gt;Avoid foods that may trigger stomach pain such as spicy and acidic foods&lt;/p&gt;
+&lt;p&gt;Replenish stomach flora with probiotics&lt;/p&gt;
+&lt;p&gt;Increase stomach acid to help digest food&lt;/p&gt;
+&lt;p&gt;Use remedies to heal from parasites&lt;/p&gt;
+&lt;p&gt;Eat a healthy diet&lt;/p&gt;
+&lt;p&gt;Practice healthy eating habits&lt;/p&gt;
+&lt;p&gt;Add bone broth to heal stomach lining&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Nontoxic Healthy Cookware</title>
+    <link href="http://localhost:4000/healthy-tips/nontoxic-healthy-cookware/"/>
+    <updated>2016-04-02T09:37:55+01:00</updated>
+    <id>http://localhost:4000/healthy-tips/nontoxic-healthy-cookware</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Most commonly used pans are incredibly toxic for overall health. Non-stick pans (such as aluminum pans) coated with a synthetic polymer called polytetrafluoroetheylene (PTFE), also known as Teflon, release fumes when used at high temparutures. These same toxic fumes may kill pet birds and cause people to develop flu-like symptoms. The flu associated with this is known as Teflon Flu and scientists describe it as &quot;Polymer fume fever&quot;.&lt;br /&gt;&lt;br /&gt;Ingesting particles that flake off scratched non-stick cookware is not toxic as the solid PTFE flakes are inert, the main issue is the exhuming fumes produced by high temperatures.&lt;br /&gt;&lt;br /&gt;Some of the health problems associated with long term exposure to toxic pans include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;smaller birth weight and size in newborn babies&lt;/li&gt;
+&lt;li&gt;elevated cholesterol&lt;/li&gt;
+&lt;li&gt;abnormal thyroid hormone levels&lt;/li&gt;
+&lt;li&gt;liver inflammation and weakened immune defense against disease&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;Here are altertanitive healthy nontoxic cookwares:&lt;br /&gt;&lt;br /&gt;Stainless Steel (Surgical Grade)&lt;br /&gt;&lt;br /&gt;If using stainless steel it is best to invest in surgical grade as the lower quality stainless steel which is commonly used is mixed with other metals that can spell trouble for the body by leeching chrome or nickel increasing body toxicity. There are many brands of surgical stainless steel cookware but are affordable when purchasing as a set. One set that is most affordable and sourced is currently being sold by HoffMayer, a great value 19 pc set.&lt;br /&gt;&lt;br /&gt;&amp;nbsp;&lt;br /&gt;&lt;br /&gt;Cast Iron&lt;br /&gt;&lt;br /&gt;Cast Iron is a great solution for healthy cooking. Whilst the pans are quite heavy to use and perhaps not easy to manage for someone with athritis they make a healthy great addition to the kitchen. Benefits of using cast iron include the addition of iron in the diet, an essential nutrient for all the cells in our body helping transport oxygen through hemoglobin in the blood and myoglobin in muscles. These pans are a great iron booster especially for those sufferring with aneamia. There are many brands to choose from. One of the greatest advantage of using a cast iron pan is its durability, with love and care it can last for many many generations. Just imagine passing down one of these to your great-great-great granddaughter.&lt;br /&gt;&lt;br /&gt;Lodge does a great 5 piece cast iron set ready and pre-seasoned.&lt;br /&gt;&lt;br /&gt;&amp;nbsp;&lt;br /&gt;&lt;br /&gt;Clay Cookware&lt;br /&gt;&lt;br /&gt;Clay cookware is not only a healthy choice as it is naturally inert and non reactive, but creates the perfect flavoursome dishes you could imagine.&amp;nbsp; Most clay cookware that can be commonly found in many shops are glazed. Glazed clay cookware are a healthy choice as long as the pot does not get scratched which can unfortunately release lead into food. There are many vendors supplying unglazed clay cookware. One of the best things about clay cookware is the variety of style, shape and sizes. They make a very attractive addition to any kitchen.&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Intermittent Fasting</title>
+    <link href="http://localhost:4000/healthy-tips/intermittent-fasting/"/>
+    <updated>2016-04-02T09:34:55+01:00</updated>
+    <id>http://localhost:4000/healthy-tips/intermittent-fasting</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Intermittent fasting is the practice of maintaining overall caloric intake by consuming those calories in fewer meals or in reduced periods of time (time windows).&lt;/p&gt;
+&lt;p&gt;Studies revealed reducing calories (Calorific restriction diet) every other day was beneficial but not as much as fasting.&lt;/p&gt;
+&lt;p&gt;There are two ways to begin this fast:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1) Eating regularly during a specific period of time.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For example only eat from 12pm - 8pm (8-hour window).&amp;nbsp; The period of time can be adjusted to a different period of time, for example a 6-hour or 4-hour window of time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2) 24 hours full fast.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Eating a normal meal at a certain time and then not eating again until the same time on the following day. Example if you eat lunch at 1pm you will not eat any food until the same time on the following day.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why and how does it work?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Intermittent fasting works by&amp;nbsp;not wasting energy on digestion and focuses on regenerating whatever cells are required in the body.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benefits of intermittent fasting:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Helps regenerate cells&lt;/li&gt;
+&lt;li&gt;Improving brain function by creating neurons&lt;/li&gt;
+&lt;li&gt;Weight loss and maintaining a balanced weight&lt;/li&gt;
+&lt;li&gt;Muscle growth&lt;/li&gt;
+&lt;li&gt;Increase insulin sensitivity&lt;/li&gt;
+&lt;li&gt;Increase growth hormone secretion&lt;/li&gt;
+&lt;li&gt;Reduced grocery bills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;What you eat after the fast makes a huge difference, in general you should stick to a healthy eating plan. Certain foods and nutrients can impact the benefits of intermittent fasting.&lt;/p&gt;
+&lt;p&gt;Flavanoids - found in cacao &lt;br /&gt; Curcumin - found in turmeric powder, ginger&lt;br /&gt; Essential Fatty Acids DHA, EPA - eggs salmon sardines linseeds&lt;br /&gt; Zinc &lt;br /&gt; Fruits berries etc&lt;br /&gt; Vegetables for their nutritional content&lt;/p&gt;
+&lt;p&gt;Whilst exercise is important, during the fast it is best to avoid strenuous activity. Drinking teas (consider herbal teas) and water is fine on intermittent fasting. Try not to drink anything with high calories, example fizzy drinks, high fructose juices.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Stress Busting Tips</title>
+    <link href="http://localhost:4000/healthy-tips/stress-busting-tips/"/>
+    <updated>2016-04-02T09:33:56+01:00</updated>
+    <id>http://localhost:4000/healthy-tips/stress-busting-tips</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;During busy and especially stressful times we are more than likely to adopt unhealthy habits. One of the main cause for unhealthy habits is stress, usually stress will lead to bad eating patterns and many other unhealthy habits. Here are several tips on helping tackle this problem.&lt;/p&gt;
+
+&lt;p&gt;Relaxation&lt;/p&gt;
+
+&lt;p&gt;No matter what always make time for relaxation.&lt;/p&gt;
+
+&lt;p&gt;Take a walk in the park&lt;/p&gt;
+
+&lt;p&gt;Listen to relaxation or meditation audio&lt;/p&gt;
+
+&lt;p&gt;Practice diaphragmatic breathing&lt;/p&gt;
+
+&lt;p&gt;Eat healthy&lt;/p&gt;
+
+&lt;p&gt;Try to resolve toxic relationships or remove them from your life altogether as these stressors can only contribute to more stressful levels that will contribute to bad health.&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Water Distiller for Pure Water</title>
+    <link href="http://localhost:4000/healthy-tips/water-distiller-for-pure-water/"/>
+    <updated>2016-04-02T09:31:24+01:00</updated>
+    <id>http://localhost:4000/healthy-tips/water-distiller-for-pure-water</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;If you want to drink pure water a water distiller might be the answer. A water distiller works by boiling water and transferring the steam droplets into a separate container. The result is water that has been stripped of any dissolved solids which includes inorganic minerals that cannot be utilised by the body, harmful bacteria, chemicals and heavy metals.&lt;/p&gt;
+
+&lt;p&gt;Chlorine and fluoride are used in most municipal tap water. These halogens are known to be harmful and displace iodine within the body and causing iodine deficiency which can lead to thyroid problems. A water distiller removes these halogens.&lt;/p&gt;
+
+&lt;p&gt;Should I buy a water distiller? 
+This all depends on the current state of the quality of water you are drinking. You can get the water tested. Usually most municipal tap water are very much contaminated, often you can determine how bad the water is just by taste.&lt;/p&gt;
+
+&lt;p&gt;Read how to test your water for more information.&lt;/p&gt;
+
+&lt;p&gt;How much does a water distiller cost? 
+Prices usually start from £100 upwards.&lt;/p&gt;
+
+&lt;p&gt;What other alternatives are there? A general home filter jug are designed to remove chlorine but we do prefer a distiller.&lt;/p&gt;
+
+&lt;p&gt;What about my electricity bills?
+The cost is usually 25c or 15 pence per litre of distilled water. You can easily use boiled water to reduce the time and energy. This may also help with keeping your distiller in a good condition. Some people even use hot tap water, however if your tap water also uses same boiler as the central heating of your house this may run your heating bills higher so it might not be as cost effective.&lt;/p&gt;
+
+&lt;p&gt;Is it safe for long term use?
+There is much debate within the health community regarding the effects of using distilled water. According to some sources distilled water can remove the body of minerals thereby causing mineral deficiencies. However if you are getting enough minerals through diet and supplements this should not be be a problem. According to other sources distilled water attaches to inorganic minerals stored in the body that cannot be utilised by the body.&lt;/p&gt;
+
+&lt;p&gt;It is thought that because distilled water is stripped of all minerals it is dead water. In order to bypass this you can remineralise the water by adding natural sea salts such as celtic sea salt or pink Himalayan salt. You can also add fresh lemon juice.&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Natural Sunny Vitamin D</title>
+    <link href="http://localhost:4000/healthy-tips/natural-sunny-vitamin-d/"/>
+    <updated>2016-03-31T17:19:46+01:00</updated>
+    <id>http://localhost:4000/healthy-tips/natural-sunny-vitamin-d</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Are you getting enough Vitamin D? If you work long hours in an office or constantly cooped up indoors chances are you rarely get enough sun which means your Vitamin D supply could be very low. In today&#39;s pandemic of multiple diseases one of the major Vitamins which can help tackle any health problems is Vitamin. We need Vitamin D not only for strong bones but also our immune system.&lt;/p&gt;
+&lt;p&gt;One of the most natural source of Vitamin D where available is the Sun. It gives freely of it&#39;s wonderful healing rays. If you live in the northern temperate climate getting Vitamin D from this source is difficult. However the sun&amp;rsquo;s Ultra Violet rays can be very damaging to skin cells. These UV rays can be very high throughout the day.&lt;/p&gt;
+&lt;p&gt;The best times to expose your skin to sun rays are early morning during three hours after sunrise and three hours before the sun sets as during these times the rays are not as intense. It is best to also use a natural sunscreen to protect the skin from the harmful effects of the sun&amp;rsquo;s UV rays.&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Healthy Food Sources With Vitamin D Can Help Avert the Winter Blues</title>
+    <link href="http://localhost:4000/healthy-tips/diet-and-nutrition/healthy-food-sources-with-vitamin-d-can-help-avert-the-winter-blues/"/>
+    <updated>2016-03-31T17:18:40+01:00</updated>
+    <id>http://localhost:4000/healthy-tips/diet-and-nutrition/healthy-food-sources-with-vitamin-d-can-help-avert-the-winter-blues</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;When winter is upon us, and for those in the nothern temperate region, we can do with that extra dose of vitamin D. Vitamin D is essential and helps to regulate the amount of calcium and phosphate in the body as well as serving other important functions. Whilst our own body can generate vitamin D by exposure to the Sun, this is often difficult especially in the winter nothern temperate climates and if you are simply not getting enough sun the following are several healthy food options for Vitamin D:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sardines&lt;/li&gt;
+&lt;li&gt;Anchovies&lt;/li&gt;
+&lt;li&gt;Egg yolks&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When supplementing the best option is to go for Vitamin D3 as this is more bio available for the body.&amp;nbsp;Cheese is also a food option for Vitamin D3 however due to it&amp;rsquo;s allergy inducing effect it is probably best not to consume regularly.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Growing and Eating Sprouts</title>
+    <link href="http://localhost:4000/healthy-tips/growing-and-eating-sprouts/"/>
+    <updated>2016-03-31T17:18:03+01:00</updated>
+    <id>http://localhost:4000/healthy-tips/growing-and-eating-sprouts</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Sprouts are a healthy addition to any kind of diet. All grains, nuts, seeds legumes and pulses have phytic acids which need to be removed by soaking process. When phytic acids are present in these food the digestive system is unable to process the nutrients.&lt;/p&gt;
+&lt;p&gt;Sprouting increases nutritional value, usually by three times their original nutritional content. There are two types of sprouts. The first type are sprouted grains, nuts, seeds pulses, beans and legumes. The second type of sprouts are micro greens. Some of these sprouts are edible raw, however some seeds and beans such as kidney beans are toxic raw.&lt;/p&gt;
+&lt;p&gt;Equipment required for sprouting:&lt;/p&gt;
+&lt;p&gt;Mason Jars Mesh screens (usually a mosquito net does the job)&lt;/p&gt;
+&lt;p&gt;Rubber bands&lt;/p&gt;
+&lt;p&gt;There are also germinators designed for sprouting Sprouted Seeds&lt;/p&gt;
+&lt;p&gt;Method for mason jar sprouting, use about half a cup of seeds to experiment with.Soak in jar for 8 - 12 hours, soaking time is dependent on the type of seed used. Use a sprouting chart to check for soak time. After soak time, place your mesh screen with rubber band and drain the jar of the soaked water. After this rinse at least twice a day, you can do this once in the morning and once in the evening usually keeping a twelve hours gap. You will see that the sprouts increase in volume as well as nutrients. They can be eaten raw in salads or even sprinkled on soups. Grains can be made into nutritious sprouted breads. Sprouted Micro Greens Micro greens need a growing medium, a tray and some watering. Place growing medium in tray, sprinkle seeds evenly. Cover seeds with vermiculite and cover with something to shade the tray so that the seeds can germinate. Micro greens do not need direct sunlight.&lt;/p&gt;
+&lt;p&gt;Benefits of Sprouting&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Removes phytic acids in order for better nutrient absorption&lt;/li&gt;
+&lt;li&gt;Increases nutritional value by at least three times&lt;/li&gt;
+&lt;li&gt;Increases volume of food, a half a cup can produce upto three times more&lt;/li&gt;
+&lt;li&gt;Variety of seeds to sprout thereby giving more food choice&lt;/li&gt;
+&lt;li&gt;Affordable way to eat organic as the seeds can be purchased in bulk&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Removing Toxic People from your Life</title>
+    <link href="http://localhost:4000/healthy-tips/diet-and-nutrition/removing-toxic-people-from-your-life/"/>
+    <updated>2016-03-31T17:16:33+01:00</updated>
+    <id>http://localhost:4000/healthy-tips/diet-and-nutrition/removing-toxic-people-from-your-life</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Unfortunately mental health is becoming a bigger health concern than most physical conditions. Stress whether it is from home or work is likely to contribute to many underlying health conditions. It is important to work out any external surrounding conditions contributing to depressive, raging or angry thoughts.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to know and identify the toxic people around you&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Usually these people can create havoc whether at home or workplace. It is rather unfortunate but even these individuals are likely to be suffering from these mental conditions. A person may appear to be angry and it would seem like it is their nature to either pick a fight or create a stressful challenging situation. It&amp;rsquo;s even more tough to deal with especially when the toxic person happens to be a relative. First it is important to know which person around you is toxic before you can actively deal with the situation.&lt;/p&gt;
+&lt;p&gt;Is the person often moody?&lt;/p&gt;
+&lt;p&gt;Are they constantly picking a fight?&lt;/p&gt;
+&lt;p&gt;Do they have a negative attitude?&lt;/p&gt;
+&lt;p&gt;Do they yell and shout often?&lt;/p&gt;
+&lt;p&gt;Are they abusive verbally or physically towards you or others?&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to deal with toxic people around you&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When a person is physically abusive towards you it is important to seek help immediately, this means contacting emergency line and your local social services.&lt;/p&gt;
+&lt;p&gt;There are two options for this and each depends on your situation.&lt;/p&gt;
+&lt;p&gt;The first option is very straightforward, remove this person from your life. This takes a lot of energy and courage however for your own health sometimes this is the best remedy. If this person is someone you have been dating recently it may be a lot easier to end the relationship, however if it has been a long term relationship extra steps need to be taken. Prior to disappearing from the person&amp;rsquo;s life you may wish for a reconciliation to see if the relationship could work out.&lt;/p&gt;
+&lt;p&gt;Another scenario is where the person is a member of the family and this option may be hard to apply either because you are sharing accommodation or there is no other viable option to do so. In this case if no reconciliation can be met with this person it is best to avoid being around any negative situations that may arise with this person.&lt;/p&gt;
+&lt;p&gt;The second option is reconciling your differences helping the other person as well as helping yourself to avoid remaining subdued in negative thought patterns. Often times this will be best applied in marriage situations.&lt;/p&gt;
+&lt;p&gt;Surprisingly enough these are not the only negative situations you may find yourself in. Toxic people can simply be others who do not align with your intentions and this could even mean a business partner you have fallen out with or are having doubts with.&lt;/p&gt;
+&lt;p&gt;Accompanied with these options it is also best to include a healthy diet and lifestyle.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Improve your health and diet&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This can have the greatest impact on your relationships with other people. The reason for this is because when we are in a healthy state of mind and body we are naturally in a state that allows us to make wiser decisions in life. Although it may not be easy adopting a healthy lifestyle as the process itself requires a lot of detoxing which will release a lot of toxins and emotions it is the best choice you are making for yourself. Whilst eating healthy is a good start, cleansing the body of nutritional disharmonies can take years as throughout one&amp;rsquo;s life a lot of heavy metals and other toxins are accumulated. Many mental health conditions which cause emotions of anger and other disturbances are often related to toxicity and nutritional deficiencies.&lt;/p&gt;
+&lt;p&gt;Check out my many articles to give you a head start on life long healing.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Eating Healthy on a Budget</title>
+    <link href="http://localhost:4000/healthy-tips/diet-and-nutrition/eating-healthy-on-a-budget/"/>
+    <updated>2016-03-31T17:16:33+01:00</updated>
+    <id>http://localhost:4000/healthy-tips/diet-and-nutrition/eating-healthy-on-a-budget</id>
+    <author>
+      <name>Natural Medicus</name>
+      <uri>http://localhost:4000/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Eating healthy can get expensive if you are trying to eat clean and organic.
+Here are some tips on how to reduce your costs when eating healthy:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Join a community food growing garden where produce is shared amongst volunteer growers&lt;/li&gt;
+&lt;li&gt;Start gardening, greens are easier to start with.&lt;/li&gt;
+&lt;li&gt;Grow micro greens since they are very easy to get started with&lt;/li&gt;
+&lt;li&gt;Sprout legumes, seeds and soak nuts such as almonds. Sprouting will increase nutritional value and bulk up amount of food&lt;/li&gt;
+&lt;li&gt;Forage for wild food, it helps to start with a local forager who can take you through wild food walks. This is only recommended if you can increase your knowledge in wild food as there are poisonous foods that would need to be avoided.&lt;/li&gt;
+&lt;li&gt;Shop in local markets for your fresh fruits and veg rather than convenient supermarkets as produce can be cheaper from local markets.&lt;/li&gt;
+&lt;li&gt;Some conventional supermarkets such as lidl and aldi can be cheaper but these stores may not be accessible in all countries.&lt;/li&gt;
+&lt;li&gt;There are certain fruits and vegetables that you can get away with not eating organic, some examples; melons, coconuts, pineapples,&lt;/li&gt;
+&lt;li&gt;Never buy more than you will eat so that you can reduce food waste.&lt;/li&gt;
+&lt;li&gt;If you do buy in bulk which can save money it is best to freeze the produce, bananas can be frozen if you see they are becoming too ripe as well as many other fruits.&lt;/li&gt;
+&lt;li&gt;Invest in fruit and veg scrubbing brushes to help wash off any pesticide from veg or fruits that you cannot purchase organic&lt;/li&gt;
+&lt;li&gt;Use apple cider vinegar or a calcium bentonite clay solution to remove pesticides from fruits and veg.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  
+</feed>
