@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Nutrients Database</title>
+  <title>Nutrients Database Search Engine</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script>
@@ -29,14 +29,42 @@
       }
     ];
 
-    function displayNutrients(query) {
-      var table = "<table><tr><th>Nutrient</th><th>Deficiency Symptoms</th><th>Toxicity Symptoms</th><th>URL</th><th>Image URL</th></tr>";
+    function searchNutrients(query) {
+      var results = [];
+      var querySymptoms = query.split(", ");
       for (var i = 0; i < nutrients.length; i++) {
         var deficiencySymptomsList = nutrients[i].deficiencySymptoms.split(", ");
-        var toxicitySymptomsList = nutrients[i].toxicitySymptoms.split(", ");
-        if (nutrients[i].nutrient.toLowerCase().includes(query.toLowerCase()) ||
-            deficiencySymptomsList.includes(query.toLowerCase()) ||
-            toxicitySymptomsList.includes(query.toLowerCase())) {
+        var matchCount = 0;
+        for (var j = 0; j < querySymptoms.length; j++) {
+          if (deficiencySymptomsList.includes(querySymptoms[j].toLowerCase())) {
+            matchCount++;
+          }
+        }
+        if (matchCount > 0) {
+          results.push({
+            nutrient: nutrients[i].nutrient,
+            deficiencySymptoms: nutrients[i].deficiencySymptoms,
+            toxicitySymptoms: nutrients[i].toxicitySymptoms,
+            url: nutrients[i].url,
+            imageUrl: nutrients[i].imageUrl,
+            matchCount: matchCount
+          });
+        }
+      }
+      results.sort(function(a, b) {
+        return b.matchCount - a.matchCount;
+      });
+      return results;
+    }
+
+    function displayResults(results) {
+      var table = "<table><tr><th>Nutrient</th><th>Deficiency Symptoms</th><th>Toxicity Symptoms</th><th>URL</th><th>Image URL</th></tr>";
+      for (var i = 0; i < results.length; i++) {
+        table += "<tr>";
+        table += "<td>" + results[i].nutrient + "</td>";
+        table += "<td>" + results[i].deficiencySymptoms + "</td>";
+        table += "<td
+
          
 </body>
 
