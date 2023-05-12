@@ -120,7 +120,7 @@
   } else {
     for (var i = 0; i < results.length; i++) {
       var nutrientDiv = document.createElement("div");
-   nutrientDiv.innerHTML = "<h2>" + results[i].nutrient + "</h2><p><a href='" + results[i].url + "'>" + results[i].url + "</a></p>" + "<p><a href='" + results[i].url + "'><img src='" + results[i].imageUurl + "alt='teaser' itemprop='image' /></a></p>";
+   nutrientDiv.innerHTML = "<h2>" + results[i].nutrient + "</h2><p><a href='" + results[i].url + "'>" + results[i].url + "</a></p>" + "<p><a href='" + results[i].url + "'><img src='" + results[i].imageUrl + "alt='teaser' itemprop='image' /></a></p>";
         resultsDiv.appendChild(nutrientDiv);
     }
   }
