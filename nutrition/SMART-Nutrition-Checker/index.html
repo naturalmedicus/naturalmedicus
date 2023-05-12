@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Nutrients Database Search Engine</title>
+  <title>Works Nutrients Database Search Engine</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <script>
@@ -52,15 +52,21 @@
         });
       }
     }
-    results.sort(function(a, b) {
-      return b.matchCount - a.matchCount;
-    });
-    var resultsDiv = document.getElementById("results");
-    resultsDiv.innerHTML = "";
-    if (results.length == 0) {
-      resultsDiv.innerHTML = "No matching nutrients found.";
+      results.sort(function(a, b) {
+    return b.matchCount - a.matchCount;
+  });
+  var resultsDiv = document.getElementById("results");
+  resultsDiv.innerHTML = "";
+  if (results.length == 0) {
+    resultsDiv.innerHTML = "No matching nutrients found.";
+  } else {
+    for (var i = 0; i < results.length; i++) {
+      var nutrientDiv = document.createElement("div");
+      nutrientDiv.innerHTML = "<h2>" + results[i].nutrient + "</h2><p><a href='" + results[i].url + "'>" + results[i].url + "</a></p>";
+      resultsDiv.appendChild(nutrientDiv);
     }
   }
+}
 </script>
 
 </head>
