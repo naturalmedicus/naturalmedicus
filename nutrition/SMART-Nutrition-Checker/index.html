@@ -37,7 +37,7 @@
       var deficiencySymptomsList = nutrients[i].deficiencySymptoms.split(", ");
       var matchCount = 0;
       for (var j = 0; j < querySymptoms.length; j++) {
-        if (deficiencySymptomsList.includes(querySymptoms[j].toLowerCase())) {
+       if (deficiencySymptomsList.includes(querySymptoms[j])) {
           matchCount++;
         }
       }
