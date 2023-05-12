@@ -5,9 +5,32 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script>
-    var nutrients = [      {        nutrient: "Iron",        deficiencySymptoms: "Headache, Brittle nails, Weakness, Fatigue, Rapid heartbeat",        toxicitySymptoms: "Nausea, Vomiting, Diarrhea, Dizziness",        url: "https://en.wikipedia.org/wiki/Iron",        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Iron_electrolytic_and_1cm3_cube.jpg/240px-Iron_electrolytic_and_1cm3_cube.jpg"      },      {        nutrient: "Vitamin C",        deficiencySymptoms: "Fatigue, Weakness, Scurvy, Anemia",        toxicitySymptoms: "Diarrhea, Nausea, Abdominal cramps, Headache",        url: "https://en.wikipedia.org/wiki/Vitamin_C",        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Vitamin_C_L-ascorbic_acid.svg/1200px-Vitamin_C_L-ascorbic_acid.svg.png"      },      {        nutrient: "Vitamin D",        deficiencySymptoms: "Rickets, Osteoporosis, Muscle weakness, Tooth decay",        toxicitySymptoms: "Nausea, Vomiting, Poor appetite, Constipation",        url: "https://en.wikipedia.org/wiki/Vitamin_D",        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Vitamin_D2_and_D3.svg/1200px-Vitamin_D2_and_D3.svg.png"      }    ];
+    var nutrients = [
+      {
+        nutrient: "Iron",
+        deficiencySymptoms: "Headache, Brittle nails, Weakness, Fatigue, Rapid heartbeat",
+        toxicitySymptoms: "Nausea, Vomiting, Diarrhea, Dizziness",
+        url: "https://en.wikipedia.org/wiki/Iron",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Iron_electrolytic_and_1cm3_cube.jpg/240px-Iron_electrolytic_and_1cm3_cube.jpg"
+      },
+      {
+        nutrient: "Vitamin C",
+        deficiencySymptoms: "Fatigue, Weakness, Scurvy, Anemia",
+        toxicitySymptoms: "Diarrhea, Nausea, Abdominal cramps, Headache",
+        url: "https://en.wikipedia.org/wiki/Vitamin_C",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Vitamin_C_L-ascorbic_acid.svg/1200px-Vitamin_C_L-ascorbic_acid.svg.png"
+      },
+      {
+        nutrient: "Vitamin D",
+        deficiencySymptoms: "Rickets, Osteoporosis, Muscle weakness, Tooth decay",
+        toxicitySymptoms: "Nausea, Vomiting, Poor appetite, Constipation",
+        url: "https://en.wikipedia.org/wiki/Vitamin_D",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Vitamin_D2_and_D3.svg/1200px-Vitamin_D2_and_D3.svg.png"
+      }
+    ];
 
-    function searchNutrients(query) {
+    function searchNutrients() {
+      var query = document.getElementById("searchField").value;
       var results = [];
       var querySymptoms = query.split(", ");
       for (var i = 0; i < nutrients.length; i++) {
@@ -32,19 +55,20 @@
       results.sort(function(a, b) {
         return b.matchCount - a.matchCount;
       });
-      return results;
-    }
-
-    function displayResults(results) {
-      var table = "<table><tr><th>Nutrient</th><th>Deficiency Symptoms</th><th>Toxicity Symptoms</th><th>URL</th><th>Image URL</th></tr>";
-      for (var i = 0; i < results.length; i++) {
-        table += "<tr>";
-        table += "<td>" + results[i].nutrient + "</td>";
-        table += "<td>" + results[i].deficiencySymptoms + "</td>";
-        table += "<td>" + results[i].toxic
-
-  </script>
-
-</body>
+      var resultsDiv = document.getElementById("results");
+      resultsDiv.innerHTML = "";
+      if (results.length == 0) {
+        resultsDiv.innerHTML = "No matching nutrients found.";
+}</script>
+</head>
+<body>
+  <h1>Nutrients Database Search Engine</h1>
+  <p>Enter one or more deficiency symptoms (separated by commas) to search for matching nutrients:</p>
+  <form action="https://www.naturalmedicus.com/nutrition/SMART-Nutrition-Checker/index.html" method="get" id="form-search">
+  <input type="text" id="searchField">
+  <button onclick="searchNutrients()">Search</button></form>
+  <div id="results"></div>
+  </body>
 
 </html>
+ 
