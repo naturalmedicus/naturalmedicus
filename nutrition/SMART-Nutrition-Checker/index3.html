@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Comprehensive Guide for Nutrition | Vitamins | Minerals | Supplements • Natural Medicus</title>
+    
+    
+    
+    	<!-- Twitter Cards -->
+	<meta name="twitter:title" content="Nutrition">
+	
+	<meta name="twitter:site" content="@naturalmedicus">
+	<meta name="twitter:creator" content="@naturalmedicus">
+	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:image" content="https://www.naturalmedicus.com/images//">
+	
+	<!-- Open Graph -->
+	<meta property="og:locale" content="en">
+	<meta property="og:type" content="article">
+	<meta property="og:image" content="https://www.naturalmedicus.com/images/-images/">
+	<meta property="og:title" content="Nutrition">
+	
+	<meta property="og:url" content="https://www.naturalmedicus.com/nutrition/">
+	<meta property="og:site_name" content="Natural Medicus">
+
+
+
+    <link rel="canonical" href="https://www.naturalmedicus.com/nutrition/">
+
+    <link href="https://www.naturalmedicus.com/atom.xml" type="application/atom+xml" rel="alternate" title="Natural Medicus Atom Feed">
+    <link href="https://www.naturalmedicus.com/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="cleartype" content="on">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <!-- HTML5 Shiv and Media Query Support for IE -->
+    <!--[if lt IE 9]>
+      <script src="http://www.naturalmedicus.com/js/vendor/html5shiv.min.js"></script>
+      <script src="http://www.naturalmedicus.com/js/vendor/respond.min.js"></script>
+    <![endif]-->
+
+
+
+<script src="https://use.fontawesome.com/281fce8d38.js"></script>
+
+
+<script>
+  var nutrients = [
+    {
+      nutrient: "Iron",
+      deficiencySymptoms: "headache, brittle nails, weakness, fatigue, rapid heartbeat",
+      toxicitySymptoms: "nausea, vomiting, diarrhea, dizziness",
+      url: "https://en.wikipedia.org/wiki/Iron",
+      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Iron_electrolytic_and_1cm3_cube.jpg/240px-Iron_electrolytic_and_1cm3_cube.jpg"
+    },
+    {
+      nutrient: "Vitamin C",
+      deficiencySymptoms: "fatigue, weakness, scurvy, anemia",
+      toxicitySymptoms: "diarrhea, nausea, abdominal cramps, headache",
+      url: "https://en.wikipedia.org/wiki/Vitamin_C",
+      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Vitamin_C_L-ascorbic_acid.svg/1200px-Vitamin_C_L-ascorbic_acid.svg.png"
+    },
+    {
+      nutrient: "Vitamin D",
+      deficiencySymptoms: "rickets, osteoporosis, muscle weakness, tooth decay",
+      toxicitySymptoms: "nausea, vomiting, poor appetite, constipation",
+      url: "https://en.wikipedia.org/wiki/Vitamin_D",
+      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Vitamin_D2_and_D3.svg/1200px-Vitamin_D2_and_D3.svg.png"
+    }
+  ];
+
+  function searchNutrients() {
+    var query = document.getElementById("searchField").value;
+    var results = [];
+    var querySymptoms = query.split(", ");
+    for (var i = 0; i < nutrients.length; i++) {
+      var deficiencySymptomsList = nutrients[i].deficiencySymptoms.split(", ");
+      var matchCount = 0;
+      for (var j = 0; j < querySymptoms.length; j++) {
+       if (deficiencySymptomsList.includes(querySymptoms[j].toLowerCase())) {
+          matchCount++;
+        }
+      }
+      if (matchCount > 0) {
+        results.push({
+          nutrient: nutrients[i].nutrient,
+          deficiencySymptoms: nutrients[i].deficiencySymptoms,
+          toxicitySymptoms: nutrients[i].toxicitySymptoms,
+          url: nutrients[i].url,
+          imageUrl: nutrients[i].imageUrl,
+          matchCount: matchCount
+        });
+      }
+    }
+      results.sort(function(a, b) {
+    return b.matchCount - a.matchCount;
+  });
+  var resultsDiv = document.getElementById("results");
+  resultsDiv.innerHTML = "";
+  if (results.length == 0) {
+    resultsDiv.innerHTML = "No matching nutrients found.";
+  } else {
+    for (var i = 0; i < results.length; i++) {
+      var nutrientDiv = document.createElement("div");
+      nutrientDiv.innerHTML = "<h2>" + results[i].nutrient + "</h2><p><a href='" + results[i].url + "'>" + results[i].url + "</a></p>";
+      resultsDiv.appendChild(nutrientDiv);
+    }
+  }
+}
+</script>
+
+  </head>
+
+  <body id="js-body">
+    <!--[if lt IE 9]><div class="upgrade notice-warning"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif]-->
+
+    <header id="masthead">
+	
+ <div class="inner-wrap">
+   <a href="https://www.naturalmedicus.com/" class="site-title"><img src="/images/naturalmedicus.png" alt="logo" ></a>
+    <nav role="navigation" class="menu top-menu">
+        <ul class="menu-item">
+	<li class="home"><a href="/">Natural Medicus</a></li>
+	
+    
+    <li><a href="https://www.naturalmedicus.com/remedies/" >Remedies</a></li>
+  
+    
+    <li><a href="https://www.naturalmedicus.com/herbal-remedies/" >Herbal Remedies</a></li>
+  
+    
+    <li><a href="https://www.naturalmedicus.com/ailments/" >Ailments</a></li>
+  
+    
+    <li><a href="https://www.naturalmedicus.com/nutrition/" >Nutrition</a></li>
+  
+    
+    <li><a href="https://www.naturalmedicus.com/healthy-tips/" >Tips</a></li>
+  
+    
+    <li><a href="https://www.naturalmedicus.com/recipes/" >Recipes</a></li>
+  
+</ul>
+    </nav>
+  </div><!-- /.inner-wrap -->
+</header><!-- /.masthead -->
+
+
+    <nav role="navigation" id="js-menu" class="sliding-menu-content">
+  <h5>Natural Medicus <span>Table of Contents</span></h5>
+  <ul class="menu-item">
+    <li>
+      <a href="http://www.naturalmedicus.com/remedies/">
+        <img src="http://www.naturalmedicus.com/images/remedies.jpg" alt="teaser" class="teaser">
+        <div class="title">Remedies</div>
+        <p class="excerpt">Tradtional folk and current remedies for healing</p>
+      </a>
+    </li><li>
+      <a href="http://www.naturalmedicus.com/herbal-remedies/">
+        <img src="http://www.naturalmedicus.com/images/herbalremedies.jpg" alt="teaser" class="teaser">
+        <div class="title">Herbal Remedies</div>
+        <p class="excerpt">Herbal remedies and essential oils for healing</p>
+      </a>
+    </li><li>
+      <a href="http://www.naturalmedicus.com/ailments/">
+        <img src="http://www.naturalmedicus.com/images/ailments.jpg" alt="teaser" class="teaser">
+        <div class="title">Ailments</div>
+        <p class="excerpt">Search diseases, disorders and available remedies</p>
+      </a>
+    </li><li>
+      <a href="http://www.naturalmedicus.com/nutrition/">
+        <img src="http://www.naturalmedicus.com/images/remedies.jpg" alt="teaser" class="teaser">
+        <div class="title">Nutrition</div>
+        <p class="excerpt">Everything you need to know about Vitamins and Minerals</p>
+      </a>
+    </li><li>
+      <a href="http://www.naturalmedicus.com/healthy-tips/">
+        <img src="http://www.naturalmedicus.com/images/healthytips.jpg" alt="teaser" class="teaser">
+        <div class="title">Tips</div>
+        <p class="excerpt">Daily tips for a healthy living</p>
+      </a>
+    </li><li>
+      <a href="http://www.naturalmedicus.com/recipes/">
+        <img src="http://www.naturalmedicus.com/images/recipes.jpg" alt="teaser" class="teaser">
+        <div class="title">Recipes</div>
+        <p class="excerpt">Delicious recipes for health and longevity</p>
+      </a>
+    </li>
+  </ul>
+</nav>
+<button type="button" id="js-menu-trigger" class="sliding-menu-button lines-button x2" role="button" aria-label="Toggle Navigation">
+  <span class="nav-lines"></span>
+</button>
+
+<div id="js-menu-screen" class="menu-screen"></div>
+
+
+    <div id="page-wrapper">
+      <div id="main" role="main">			
+	<div class="wrap">
+		
+		<div class="page-title">
+			<h1>Nutrition</h1>
+			
+		</div>
+		<div class="archive-wrap">
+			<div class="page-content">
+			<h1>Nutrients Database Search Engine</h1>
+  <p>Enter one or more deficiency symptoms (separated by commas) to search for matching nutrients:</p>
+ 
+  <input type="text" id="searchField">
+  <button onclick="searchNutrients()">Search</button>
+  <div id="results"></div>
+
+			</div><!-- /.page-content -->
+		</div class="archive-wrap"><!-- /.archive-wrap -->
+	</div><!-- /.wrap -->
+</div><!-- /#main -->
+      <footer role="contentinfo" id="site-footer">
+	<nav role="navigation" class="menu bottom-menu">
+		<ul class="menu-item">
+		
+      
+			<li><a href="http://www.naturalmedicus.com/about/" >About</a></li>
+		
+      
+			<li><a href="http://www.naturalmedicus.com/disclaimer/" >Disclaimer</a></li>
+		
+      
+			<li><a href="http://www.naturalmedicus.com/terms/" >Terms</a></li>
+		
+      
+			<li><a href="http://www.naturalmedicus.com/contact/" >Contact</a></li>
+		
+		</ul>
+	</nav><!-- /.bottom-menu -->
+	<p class="copyright">&#169; 2017 <a href="http://www.naturalmedicus.com">Natural Medicus</a></p>
+		<p><a href="https://www.instagram.com/naturalmedicus/" target="_blank"><i class="fa fa-instagram aria-hidden=true fa-2x" style="color:rgb(173, 173, 133)"></i></a>
+<a href="" target="_blank"><i class="fa fa-linkedin-square aria-hidden=true fa-2x" style="color:rgb(173, 173, 133)"></i></a>
+<a href="https://plus.google.com/b/101337943330543329353/101337943330543329353" target="_blank"><i class="fa fa-google-plus-square aria-hidden=true fa-2x" style="color:rgb(173, 173, 133)"></i></a>
+<a href="https://www.pinterest.com/naturalmedicus/" target="_blank"><i class="fa fa-pinterest aria-hidden=true fa-2x" style="color:rgb(173, 173, 133)"></i></a>
+<a href="https://twitter.com/naturalmedicus" target="_blank"><i class="fa fa-twitter-square aria-hidden=true fa-2x" style="color:rgb(173, 173, 133)"></i></a>
+<a href="https://www.facebook.com/naturalmedicus/" target="_blank"><i class="fa fa-facebook-square aria-hidden=true fa-2x" style="color:rgb(173, 173, 133)"></i></a>
+<a href="https://www.youtube.com/channel/UCMVeJQRldWzkq1skbo8nVXA" target="_blank"><i class="fa fa-youtube-play aria-hidden=true fa-2x" style="color:rgb(173, 173, 133)"></i></a>
+</p>
+
+
+
+</footer>
+
+    </div>
+
+    <script src="http://www.naturalmedicus.com/js/vendor/jquery-1.9.1.min.js"></script>
+    <script src="http://www.naturalmedicus.com/js/main.js"></script>
+
+  </body>
+
+</html>
