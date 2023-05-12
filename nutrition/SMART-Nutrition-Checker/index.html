@@ -1,1 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Nutrients Database</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script>
+    var nutrients = [
+      {
+        nutrient: "Iron",
+        deficiencySymptoms: "Headache, Brittle nails, Weakness, Fatigue, Rapid heartbeat",
+        toxicitySymptoms: "Nausea, Vomiting, Diarrhea, Dizziness",
+        url: "https://en.wikipedia.org/wiki/Iron",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Iron_electrolytic_and_1cm3_cube.jpg/240px-Iron_electrolytic_and_1cm3_cube.jpg"
+      },
+      {
+        nutrient: "Vitamin C",
+        deficiencySymptoms: "Fatigue, Weakness, Scurvy, Anemia",
+        toxicitySymptoms: "Diarrhea, Nausea, Abdominal cramps, Headache",
+        url: "https://en.wikipedia.org/wiki/Vitamin_C",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Vitamin_C_L-ascorbic_acid.svg/1200px-Vitamin_C_L-ascorbic_acid.svg.png"
+      },
+      {
+        nutrient: "Vitamin D",
+        deficiencySymptoms: "Rickets, Osteoporosis, Muscle weakness, Tooth decay",
+        toxicitySymptoms: "Nausea, Vomiting, Poor appetite, Constipation",
+        url: "https://en.wikipedia.org/wiki/Vitamin_D",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Vitamin_D2_and_D3.svg/1200px-Vitamin_D2_and_D3.svg.png"
+      }
+    ];
+
+    function displayNutrients(query) {
+      var table = "<table><tr><th>Nutrient</th><th>Deficiency Symptoms</th><th>Toxicity Symptoms</th><th>URL</th><th>Image URL</th></tr>";
+      for (var i = 0; i < nutrients.length; i++) {
+        var deficiencySymptomsList = nutrients[i].deficiencySymptoms.split(", ");
+        var toxicitySymptomsList = nutrients[i].toxicitySymptoms.split(", ");
+        if (nutrients[i].nutrient.toLowerCase().includes(query.toLowerCase()) ||
+            deficiencySymptomsList.includes(query.toLowerCase()) ||
+            toxicitySymptomsList.includes(query.toLowerCase())) {
+         
 
