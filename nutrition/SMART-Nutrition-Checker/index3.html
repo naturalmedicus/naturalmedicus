@@ -120,8 +120,8 @@
   } else {
     for (var i = 0; i < results.length; i++) {
       var nutrientDiv = document.createElement("div");
-      nutrientDiv.innerHTML = "<h2>" + results[i].nutrient + "</h2><p><a href='" + results[i].url + "'>" + results[i].url + "</a></p>";
-      resultsDiv.appendChild(nutrientDiv);
+   nutrientDiv.innerHTML = "<h2>" + results[i].nutrient + "</h2><p><a href='" + results[i].url + "'>" + results[i].url + "</a></p>" + "<p><a href='" + results[i].url + "'><img src='" + results[i].imageUurl + "alt='teaser' itemprop='image' /></a></p>";
+        resultsDiv.appendChild(nutrientDiv);
     }
   }
 }
@@ -218,18 +218,21 @@
 	<div class="wrap">
 		
 		<div class="page-title">
-			<h1>Nutrition</h1>
+			<h1>Nutrients Database Search Engine</h1>
 			
 		</div>
 		<div class="archive-wrap">
 			<div class="page-content">
-			<h1>Nutrients Database Search Engine</h1>
+			<div class="tiles">
+
   <p>Enter one or more deficiency symptoms (separated by commas) to search for matching nutrients:</p>
  
   <input type="text" id="searchField">
   <button onclick="searchNutrients()">Search</button>
   <div id="results"></div>
-
+				
+</div>
+<!-- /.tiles -->
 			</div><!-- /.page-content -->
 		</div class="archive-wrap"><!-- /.archive-wrap -->
 	</div><!-- /.wrap -->
