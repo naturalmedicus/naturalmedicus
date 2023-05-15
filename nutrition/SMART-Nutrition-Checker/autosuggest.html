@@ -2,6 +2,23 @@
 <html>
 <head>
   <title>Search Bar with Autosuggestion Example</title>
+    <style>
+    /* Remove bullet points */
+    #suggestions::-webkit-calendar-picker-indicator {
+      display: none;
+    }
+    
+    /* Remove bullet points in Firefox */
+    #suggestions[type="text"]::-moz-focus-inner {
+      border: 0;
+      padding: 0;
+    }
+    
+    /* Remove default styling for list items */
+    #suggestions option {
+      list-style-type: none;
+    }
+  </style>
 </head>
 <body>
   <h1>Search Bar with Autosuggestion Example</h1>
