@@ -7,53 +7,61 @@
   <h1>Search Bar with Autosuggestion Example</h1>
   
   <label for="searchField">Search:</label>
-  <input type="text" id="searchField" name="searchField">
-  <div id="suggestions"></div>
+  <input type="text" id="searchField" name="searchField" oninput="showSuggestions()">
+  
+  <div id="suggestionContainer"></div>
   
   <button onclick="searchSymptoms()">Search</button>
-
+  
   <script>
-    const suggestionsDiv = document.getElementById('suggestions');
-    const searchField = document.getElementById('searchField');
-    let suggestionsList = [];
-
-    // Add event listener for changes in the search field
-    searchField.addEventListener('input', (event) => {
-      const searchValue = event.target.value.toLowerCase();
-      suggestionsDiv.innerHTML = '';
-
-      // Filter suggestions based on the search value
-      const filteredSuggestions = suggestionsList.filter((suggestion) => {
-        return suggestion.toLowerCase().startsWith(searchValue);
+    var suggestions = ["cough", "fever", "rash", "headache", "fatigue"];
+    
+    function showSuggestions() {
+      const searchField = document.getElementById("searchField");
+      const searchInput = searchField.value.toLowerCase().trim();
+      const symptomList = searchInput.split(",").map(s => s.trim());
+      
+      const suggestionContainer = document.getElementById("suggestionContainer");
+      suggestionContainer.innerHTML = "";
+      
+      symptomList.forEach((symptom, index) => {
+        const filteredSuggestions = suggestions.filter(s => s.startsWith(symptom));
+        
+        const suggestionList = document.createElement("ul");
+        suggestionList.setAttribute("id", "suggestionList" + index);
+        
+        filteredSuggestions.forEach(suggestion => {
+          const listItem = document.createElement("li");
+          listItem.textContent = suggestion;
+          listItem.addEventListener("click", () => {
+            replaceSymptom(index, suggestion);
+            suggestionContainer.innerHTML = "";
+          });
+          suggestionList.appendChild(listItem);
+        });
+        
+        suggestionContainer.appendChild(suggestionList);
       });
-
-      // Add matching suggestions to the suggestions div
-      filteredSuggestions.forEach((suggestion) => {
-        const suggestionElement = document.createElement('div');
-        suggestionElement.innerHTML = suggestion;
-        suggestionsDiv.appendChild(suggestionElement);
-      });
-    });
-
-    // Populate suggestions list with initial suggestions
-    suggestionsList = [
-      'cough',
-      'fever',
-      'rash',
-      'headache',
-      'fatigue',
-      'nausea',
-      'diarrhea',
-      'loss of appetite',
-      'muscle aches',
-      'sore throat'
-    ];
+    }
+    
+    function replaceSymptom(index, suggestion) {
+      const searchField = document.getElementById("searchField");
+      const searchInput = searchField.value.toLowerCase().trim();
+      const symptomList = searchInput.split(",").map(s => s.trim());
+      
+      symptomList[index] = suggestion;
+      searchField.value = symptomList.join(", ");
+    }
     
     function searchSymptoms() {
-      const searchValue = searchField.value;
-      // Perform search for the entered symptoms
-      console.log(`Searching for symptoms: ${searchValue}`);
+      const searchField = document.getElementById("searchField");
+      const searchInput = searchField.value.toLowerCase().trim();
+      const symptomList = searchInput.split(",").map(s => s.trim());
+      
+      // Perform search or further processing with symptomList
+      console.log(symptomList);
     }
   </script>
 </body>
 </html>
+
