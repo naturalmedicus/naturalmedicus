@@ -2,21 +2,10 @@
 <html>
 <head>
   <title>Search Bar with Autosuggestion Example</title>
-    <style>
-    /* Remove bullet points */
-    #suggestions::-webkit-calendar-picker-indicator {
-      display: none;
-    }
-    
-    /* Remove bullet points in Firefox */
-    #suggestions[type="text"]::-moz-focus-inner {
-      border: 0;
-      padding: 0;
-    }
-    
-    /* Remove default styling for list items */
-    #suggestions option {
+  <style>
+    ul {
       list-style-type: none;
+      padding: 0;
     }
   </style>
 </head>
@@ -45,7 +34,6 @@
         const filteredSuggestions = suggestions.filter(s => s.startsWith(symptom));
         
         const suggestionList = document.createElement("ul");
-        suggestionList.setAttribute("id", "suggestionList" + index);
         
         filteredSuggestions.forEach(suggestion => {
           const listItem = document.createElement("li");
@@ -81,4 +69,3 @@
   </script>
 </body>
 </html>
-
