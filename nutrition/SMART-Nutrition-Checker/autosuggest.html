@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search Bar with Autosuggestion Example</title>
+</head>
+<body>
+  <h1>Search Bar with Autosuggestion Example</h1>
+  
+  <label for="searchField">Search:</label>
+  <input type="text" id="searchField" name="searchField">
+  <div id="suggestions"></div>
+  
+  <button onclick="searchSymptoms()">Search</button>
+
+  <script>
+    const suggestionsDiv = document.getElementById('suggestions');
+    const searchField = document.getElementById('searchField');
+    let suggestionsList = [];
+
+    // Add event listener for changes in the search field
+    searchField.addEventListener('input', (event) => {
+      const searchValue = event.target.value.toLowerCase();
+      suggestionsDiv.innerHTML = '';
+
+      // Filter suggestions based on the search value
+      const filteredSuggestions = suggestionsList.filter((suggestion) => {
+        return suggestion.toLowerCase().startsWith(searchValue);
+      });
+
+      // Add matching suggestions to the suggestions div
+      filteredSuggestions.forEach((suggestion) => {
+        const suggestionElement = document.createElement('div');
+        suggestionElement.innerHTML = suggestion;
+        suggestionsDiv.appendChild(suggestionElement);
+      });
+    });
+
+    // Populate suggestions list with initial suggestions
+    suggestionsList = [
+      'cough',
+      'fever',
+      'rash',
+      'headache',
+      'fatigue',
+      'nausea',
+      'diarrhea',
+      'loss of appetite',
+      'muscle aches',
+      'sore throat'
+    ];
+    
+    function searchSymptoms() {
+      const searchValue = searchField.value;
+      // Perform search for the entered symptoms
+      console.log(`Searching for symptoms: ${searchValue}`);
+    }
+  </script>
+</body>
+</html>
