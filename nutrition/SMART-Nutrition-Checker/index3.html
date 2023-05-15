@@ -227,7 +227,14 @@
 
   <p>Enter one or more deficiency symptoms (separated by commas) to search for matching nutrients:</p>
  
-  <input type="text" id="searchField">
+  <input type="text" id="searchField" name="searchField" list="suggestions">
+	<datalist id="suggestions">
+    <option value="headache">
+    <option value="fatigue">
+    <option value="weakness">
+    <option value="brittle nails">
+    <option value="osteoporosis">
+  </datalist>			
   <button onclick="searchNutrients()">Search</button>
   <div id="results"></div>
 				
