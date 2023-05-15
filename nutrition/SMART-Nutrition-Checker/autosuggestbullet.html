@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search Bar with Autosuggestion Example</title>
+   
+</head>
+<body>
+  <h1>Search Bar with Autosuggestion Example</h1>
+  
+  <label for="searchField">Search:</label>
+  <input type="text" id="searchField" name="searchField" oninput="showSuggestions()">
+  
+  <div id="suggestionContainer"></div>
+  
+  <button onclick="searchSymptoms()">Search</button>
+  
+  <script>
+    var suggestions = ["cough", "fever", "rash", "headache", "fatigue"];
+    
+    function showSuggestions() {
+      const searchField = document.getElementById("searchField");
+      const searchInput = searchField.value.toLowerCase().trim();
+      const symptomList = searchInput.split(",").map(s => s.trim());
+      
+      const suggestionContainer = document.getElementById("suggestionContainer");
+      suggestionContainer.innerHTML = "";
+      
+      symptomList.forEach((symptom, index) => {
+        const filteredSuggestions = suggestions.filter(s => s.startsWith(symptom));
+        
+        const suggestionList = document.createElement("ul");
+        suggestionList.setAttribute("id", "suggestionList" + index);
+        
+        filteredSuggestions.forEach(suggestion => {
+          const listItem = document.createElement("li");
+          listItem.textContent = suggestion;
+          listItem.addEventListener("click", () => {
+            replaceSymptom(index, suggestion);
+            suggestionContainer.innerHTML = "";
+          });
+          suggestionList.appendChild(listItem);
+        });
+        
+        suggestionContainer.appendChild(suggestionList);
+      });
+    }
+    
+    function replaceSymptom(index, suggestion) {
+      const searchField = document.getElementById("searchField");
+      const searchInput = searchField.value.toLowerCase().trim();
+      const symptomList = searchInput.split(",").map(s => s.trim());
+      
+      symptomList[index] = suggestion;
+      searchField.value = symptomList.join(", ");
+    }
+    
+    function searchSymptoms() {
+      const searchField = document.getElementById("searchField");
+      const searchInput = searchField.value.toLowerCase().trim();
+      const symptomList = searchInput.split(",").map(s => s.trim());
+      
+      // Perform search or further processing with symptomList
+      console.log(symptomList);
+    }
+  </script>
+</body>
+</html>
